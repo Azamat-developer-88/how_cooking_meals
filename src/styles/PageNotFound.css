@@ -1,0 +1,19 @@
+.pageNotFound {
+  height: calc(100vh - var(--nav-height));
+  display: grid;
+  place-items: center;
+  place-content: center;
+  padding: 1rem;
+  color: var(--color-brown);
+
+  svg {
+    font-size: 10rem;
+    color: var(--color-milk-brown);
+  }
+
+  h1 {
+    font-size: 1.15rem;
+    text-align: center;
+
+  }
+}
