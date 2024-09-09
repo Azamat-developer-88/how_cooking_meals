@@ -8,7 +8,7 @@ const Footer = () => {
           <a href="/">
             <img
               src="/assets/logo-large.png"
-              alt="Logo"
+              alt="L  ogo"
               className="footer__image"
               height={48}
             />
@@ -20,7 +20,7 @@ const Footer = () => {
             <a href="https://github.com/Azamat-developer-88" target="_blank" rel="noreferrer noopener">
               Azamat Mirzaboyev
             </a>{" "}
-           
+          🍪 
            
           </p>
          
